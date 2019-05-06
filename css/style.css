@@ -51,6 +51,12 @@ p{
 	border-top: 5px solid #ebebeb;
 	padding-bottom: 2em;
 	}
+	.page-header h1{
+		position:absolute;
+		overflow:hidden;
+		top:-100%;
+		left:-100%;
+	}
 	.page-header> div{
 		position: relative;
 	}
