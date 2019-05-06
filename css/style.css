@@ -154,6 +154,9 @@ p{
 	.work figure{
 	margin-bottom:1em;
 	}
+	.work figure>img{
+		width:100%;
+	}	
 /*Footer*/
 .page-footer:before{
 	content: " ";
